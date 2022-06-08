@@ -1,0 +1,35 @@
+_repo: Leliane-een-modern-sprookje_68155
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Borel, Henri
+    aliases:
+    - Borel, Henri Jean Francois
+    - Borel, Henri Jean François
+    birthdate: 1869
+    deathdate: 1933
+    gutenberg_agent_id: '44801'
+    url: http://www.gutenberg.org/2009/agents/44801
+    wikipedia: https://nl.wikipedia.org/wiki/Henri_Borel
+description: ''
+gutenberg_issued: '2022-05-23'
+identifiers:
+  gutenberg: '68155'
+language: nl
+pgterms:marc904: https://resolver.kb.nl/resolve?urn=MMSFUBA02:000013827
+pgterms:marc905: 20181022125155borel
+pgterms:marc906: '1902'
+pgterms:marc907: NL
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg (This file was produced from images
+  generously made available by the Koninklijke Bibliotheek, The Hague)
+publication_note: Netherlands :P.N. van Kampen,1902.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dutch fiction -- 20th century'
+- !lcc 'PT'
+- GITenberg
+title: 'Leliane: een modern sprookje'
+url: http://www.gutenberg.org/ebooks/68155
